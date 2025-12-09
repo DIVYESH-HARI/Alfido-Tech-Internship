@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction (WA, USA)
+# 🏠 House Price Prediction 
 
 A Machine Learning project to predict house prices in Washington State using **Linear Regression**. Built with **Python** and **Streamlit** — with **dual-currency support (USD & INR)**.
 
@@ -60,5 +60,6 @@ A Machine Learning project to predict house prices in Washington State using **L
 ## 📜 License
 
 **MIT** — Free to use for education, portfolio, or personal projects.
+
 
 © 2025 — Built with **Python, scikit-learn & Streamlit**
