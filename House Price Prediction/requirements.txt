@@ -1,0 +1,23 @@
+# Core Data Science
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.2.0
+joblib>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=6.5.0
+jupyterlab>=3.6.0
+
+# Streamlit Web App
+streamlit>=1.28.0
+
+# Optional: Live Exchange Rate (uncomment if using live INR conversion)
+requests>=2.31.0
+
+# Optional: For improved INR formatting (Indian number system)
+# babel>=2.12.0
